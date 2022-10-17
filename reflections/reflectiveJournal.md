@@ -8,6 +8,10 @@ Scratch is a visual programming environment where you can make games and have fu
 
 ### What is visual programming?
 
+### Can you put the changes in Git up to GitHub form the ide?
+
+Yes it's possible, only if I remember my password or if I have authorised this computer
+
 ### What are some programming principles that you have discovered?
 
 ### Can you share your favourite Scratch project that you have made or remixed?
