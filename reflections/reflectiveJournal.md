@@ -8,7 +8,7 @@ Scratch is a visual programming environment where you can make games and have fu
 
 ### What is visual programming?
 
-### Can you put the changes in Git up to GitHub form the ide?
+### Can you put the changes in Git up to GitHub form the IDE?
 
 Yes it's possible, only if I remember my password or if I have authorised this computer
 
