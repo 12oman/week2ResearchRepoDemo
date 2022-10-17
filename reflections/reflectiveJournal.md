@@ -4,6 +4,8 @@
 
 ### What is Scratch?
 
+Scratch is a visual programming environment where you can make games and have fun telling the computer what you want.
+
 ### What is visual programming?
 
 ### What are some programming principles that you have discovered?
