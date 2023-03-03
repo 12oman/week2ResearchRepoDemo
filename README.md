@@ -11,3 +11,8 @@ scratch is a visual programming language developed at MIT We used it for an intr
 
 - [ ] item
 [here is the reflective prompts](./reflective-prompts.md)
+
+## What shape is the internet?
+is it like this:
+[cool site](https://noahveltman.com/internet-shape/)
+or like a spiderweb.
